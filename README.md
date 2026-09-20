@@ -97,7 +97,7 @@ Explore the collection, choose a button and copy the code directly into your Rea
 Clone the repository:
 
 ```bash
-git clone https://github.com/reejalchoudhary/button-adda.git
+git clone https://github.com/nihal-sudo/site-buttonadda-main
 ```
 
 Move into the project directory:
