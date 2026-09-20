@@ -214,11 +214,6 @@ Open a Pull Request and describe your changes.
 
 ---
 
-# 📄 License :-
-
-ButtonAdda is licensed under the MIT License.
-
-See the [LICENSE](LICENSE) file for details.
 
 ---
 # 📲 Follow Me On:-
