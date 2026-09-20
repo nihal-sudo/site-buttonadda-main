@@ -198,17 +198,6 @@ git push origin feature/amazing-button
 Open a Pull Request and describe your changes.
 
 ---
-
-## 🔗 Links
-
-- **🌐 Website:** [Button Adda](https://button-adda.netlify.app)
-- **📦 NPM Package:** [button-adda](https://www.npmjs.com/package/button-adda)
-- **💻 GitHub:** [Button Adda](https://github.com/reejalchoudhary/button-adda)
-
----
-
-
----
 # 📲 Follow Me On:-
 <p>
 <a href="https://www.linkedin.com/in/nihal-sharma-sh/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
