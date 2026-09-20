@@ -32,13 +32,6 @@ The website acts as the **showcase, explorer, installation guide, and documentat
 
 ---
 
-# 🌐 For Live Preview :-
-
-**[🚀 Click To Open:)](https://button-adda.netlify.app)**
-
-
----
-
 # ✨ Features :-
 
 - 🎨 49+ animated and interactive React buttons
