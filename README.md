@@ -221,43 +221,18 @@ ButtonAdda is licensed under the MIT License.
 See the [LICENSE](LICENSE) file for details.
 
 ---
-
-# 📲 Follow Me :-
-
-<p align="left">
-
-<a href="https://dev.to/reejalchoudhary" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
-</a>
-
-<a href="https://twitter.com/choudharyreejal" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-
-<a href="http://www.linkedin.com/in/reejal-choudhary-532386237" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://stackoverflow.com/users/reejalchoudhary" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/reejalhere" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.behance.net/reejalchoudhary" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40" />
-</a>
-
+# 📲 Follow Me On:-
+<p>
+<a href="https://www.linkedin.com/in/nihal-sharma-sh/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nihall_sharma/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
 ---
 
 # 📡 Contact Me :-
 
-- Email📧: reejalree@gmail.com
-- Mobile📞: 7018361108
+- Email📧: nihalsharma251717@gmail.com
+- Mobile📞: 8988732139
 ---
 
 <div align="center">
